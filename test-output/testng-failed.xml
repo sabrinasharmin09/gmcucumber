@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default Suite]" guice-stage="DEVELOPMENT">
+  <test name="GooglePomMst(failed)">
+    <classes>
+      <class name="test.CreateNewGoogleAccountTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="createnewgoogletest"/>
+        </methods>
+      </class> <!-- test.CreateNewGoogleAccountTest -->
+    </classes>
+  </test> <!-- GooglePomMst(failed) -->
+</suite> <!-- Failed suite [Default Suite] -->

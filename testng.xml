@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/Shamim Reza/IdeaProjects/GooglePomMst/src/test/java/test/CreateNewGoogleAccountTest.java">
+    <classes>
+        <class name="test.BaseTest"></class>
+        <class name="test.CreateNewGoogleAccountTest">
+        <methods><include name="createnewgoogletest"/></methods>
+        </class>
+        <class name="test.VerifyEmailTest"></class>
+
+    </classes>
+</test>
+</suite>
